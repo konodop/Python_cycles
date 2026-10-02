@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="8lCf1W2qE4ChfFx-_a8B">
-    <mxGraphModel dx="794" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1347" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="k9s1fHDuKnUop2cNH4uB-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="задаём переменную x = start, которой будем проходиться по графику" vertex="1">
           <mxGeometry height="80" width="120" x="360" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="k9s1fHDuKnUop2cNH4uB-9" edge="1" parent="1" source="k9s1fHDuKnUop2cNH4uB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+        <mxCell id="k9s1fHDuKnUop2cNH4uB-9" edge="1" parent="1" source="k9s1fHDuKnUop2cNH4uB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="820" />
@@ -75,7 +75,7 @@
         <mxCell id="k9s1fHDuKnUop2cNH4uB-29" parent="1" style="rhombus;html=1;shapeInside=1;" value="-3 &amp;lt; x &amp;lt;= 3&lt;div&gt;&amp;nbsp;and x &amp;lt;= end&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="360" y="880" as="geometry" />
         </mxCell>
-        <mxCell id="k9s1fHDuKnUop2cNH4uB-30" edge="1" parent="1" source="k9s1fHDuKnUop2cNH4uB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+        <mxCell id="k9s1fHDuKnUop2cNH4uB-30" edge="1" parent="1" source="k9s1fHDuKnUop2cNH4uB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="1100" />
@@ -104,7 +104,7 @@
         <mxCell id="k9s1fHDuKnUop2cNH4uB-34" parent="1" style="rhombus;html=1;shapeInside=1;" value="3 &amp;lt; x &amp;lt;= 6&lt;div&gt;&amp;nbsp;and x &amp;lt;= end&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="360" y="1160" as="geometry" />
         </mxCell>
-        <mxCell id="k9s1fHDuKnUop2cNH4uB-35" edge="1" parent="1" source="k9s1fHDuKnUop2cNH4uB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+        <mxCell id="k9s1fHDuKnUop2cNH4uB-35" edge="1" parent="1" source="k9s1fHDuKnUop2cNH4uB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="1380" />
@@ -134,7 +134,7 @@
         <mxCell id="k9s1fHDuKnUop2cNH4uB-39" parent="1" style="rhombus;html=1;shapeInside=1;" value="6 &amp;lt; x &amp;lt;= 11&lt;div&gt;&amp;nbsp;and x &amp;lt;= end&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="360" y="1440" as="geometry" />
         </mxCell>
-        <mxCell id="k9s1fHDuKnUop2cNH4uB-40" edge="1" parent="1" source="k9s1fHDuKnUop2cNH4uB-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+        <mxCell id="k9s1fHDuKnUop2cNH4uB-40" edge="1" parent="1" source="k9s1fHDuKnUop2cNH4uB-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="1660" />
